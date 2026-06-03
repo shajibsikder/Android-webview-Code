@@ -3,7 +3,7 @@ webview app source code useing "Android studio"
  How to use "webview source code"
 1.Download zip file
 
-2.Zip to unzip
+2.Zip to unzip 
 
 3.import project file in "android studio"
 
